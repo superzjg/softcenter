@@ -11,6 +11,6 @@ fi
 }
 case "$1" in
 *)
-    run_stop
-    ;;
+	run_stop
+	;;
 esac
