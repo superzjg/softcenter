@@ -10,7 +10,7 @@ elif [ "${MODEL:0:3}" == "TUF" ] || [ "$(nvram get swrt_tuf)" == "1" ];then
 	TUF=1
 fi
 if [ "$socat_enable"x = "1"x ] ; then
-    sh /jffs/softcenter/scripts/socat_config.sh stop
+    sh /jffs/softcenter/scripts/socat_start.sh stop
 fi
 # 安装插件
 cd $DIR
@@ -19,7 +19,7 @@ cp -rf $DIR/scripts/* /jffs/softcenter/scripts/
 cp -rf $DIR/webs/* /jffs/softcenter/webs/
 cp -rf $DIR/res/* /jffs/softcenter/res/
 cp -f $DIR/uninstall.sh /jffs/softcenter/scripts/uninstall_socat.sh
-ln -sf /jffs/softcenter/scripts/socat_start.sh /jffs/softcenter/init.d/S99socat.sh
+ln -sf /jffs/softcenter/scripts/socat_start.sh /jffs/softcenter/init.d/N99socat.sh
 if [ "$ROG" == "1" ];then
 	continue
 elif [ "$TUF" == "1" ];then
