@@ -1,9 +1,9 @@
 {
-"version":"2.5",
-"md5":"f97edb2bf8705e72a33eb8c8c664945b",
+"version":"2.7",
+"md5":"53ca6da57ee331c24d75b8da42e32939",
 "arch":"arm64",
 "home_url":"",
 "title":"SoftEther_VPN_Server",
 "description":"VPN全家桶, ver 4.44 build 9807",
-"build_date":"2025-09-04_22:17:24"
+"build_date":"2025-12-31_08:55:19"
 }

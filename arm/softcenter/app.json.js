@@ -24,14 +24,14 @@
         }, 
         {
             "arch": "arm", 
-            "build_date": "2025-11-06_22:22:32", 
+            "build_date": "2026-01-10_15:26:18", 
             "description": "tailscale", 
             "home_url": "Module_tailscale.asp", 
-            "md5": "fb4a45e896f7d0596c701fb5de1d018f", 
+            "md5": "ed92a9bc9336eb574524c7f30eae7bd7", 
             "name": "tailscale", 
             "tar_url": "tailscale/tailscale.tar.gz", 
             "title": "tailscale", 
-            "version": "0.1.0"
+            "version": "0.1.2"
         }, 
         {
             "arch": "arm", 
@@ -46,14 +46,14 @@
         }, 
         {
             "arch": "arm", 
-            "build_date": "2025-09-04_22:17:23", 
+            "build_date": "2025-12-31_08:55:19", 
             "description": "VPN全家桶, ver 4.44 build 9807", 
             "home_url": "", 
-            "md5": "68716db316eb877e8ec107a9986b098f", 
+            "md5": "b80f469004358199ea1565aa45102472", 
             "name": "softether", 
             "tar_url": "softether/softether.tar.gz", 
             "title": "SoftEther_VPN_Server", 
-            "version": "2.5"
+            "version": "2.7"
         }, 
         {
             "arch": "arm", 
@@ -409,7 +409,7 @@
         }
     ], 
     "home_url": "https://raw.githubusercontent.com/SWRT-dev/softcenter/master", 
-    "md5": "96809bfabc423392145c7878507333a5", 
+    "md5": "682c7c7441a2b182f0bf500925783e2d", 
     "tar_url": "softcenter/softcenter.tar.gz", 
-    "version": "1.5.6"
+    "version": "1.5.7"
 }

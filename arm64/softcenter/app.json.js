@@ -35,14 +35,14 @@
         }, 
         {
             "arch": "arm64", 
-            "build_date": "2025-11-06_22:22:35", 
+            "build_date": "2026-01-10_15:26:21", 
             "description": "tailscale", 
             "home_url": "Module_tailscale.asp", 
-            "md5": "2b82fb2b330d44bd2e55949158bc9253", 
+            "md5": "8c836e1e9e5eddaad107dd23241329a8", 
             "name": "tailscale", 
             "tar_url": "tailscale/tailscale.tar.gz", 
             "title": "tailscale", 
-            "version": "0.1.0"
+            "version": "0.1.2"
         }, 
         {
             "arch": "arm64", 
@@ -57,14 +57,14 @@
         }, 
         {
             "arch": "arm64", 
-            "build_date": "2025-09-04_22:17:24", 
+            "build_date": "2025-12-31_08:55:19", 
             "description": "VPN全家桶, ver 4.44 build 9807", 
             "home_url": "", 
-            "md5": "f97edb2bf8705e72a33eb8c8c664945b", 
+            "md5": "53ca6da57ee331c24d75b8da42e32939", 
             "name": "softether", 
             "tar_url": "softether/softether.tar.gz", 
             "title": "SoftEther_VPN_Server", 
-            "version": "2.5"
+            "version": "2.7"
         }, 
         {
             "arch": "arm64", 
@@ -398,6 +398,17 @@
         }, 
         {
             "arch": "arm64", 
+            "build_date": "2026-01-11_16:42:26", 
+            "description": "解锁网易云灰色歌曲", 
+            "home_url": "Module_unblockneteasemusic.asp", 
+            "md5": "46555af3662c56440fb88d75a75fb5dc", 
+            "name": "unblockneteasemusic", 
+            "tar_url": "unblockneteasemusic/unblockneteasemusic.tar.gz", 
+            "title": "解锁网易云灰色歌曲(nodejs版)", 
+            "version": "1.0.1"
+        }, 
+        {
+            "arch": "arm64", 
             "build_date": "2024-11-09_12:35:58", 
             "description": "DDNSTO远程控制", 
             "home_url": "Module_ddnsto.asp", 
@@ -420,7 +431,7 @@
         }
     ], 
     "home_url": "https://raw.githubusercontent.com/SWRT-dev/softcenter/master", 
-    "md5": "8c46b451b2f1939cf67ca70ef23bdea5", 
+    "md5": "96af14244a2c28aef5e36f7da886e08c", 
     "tar_url": "softcenter/softcenter.tar.gz", 
-    "version": "1.5.6"
+    "version": "1.5.7"
 }
